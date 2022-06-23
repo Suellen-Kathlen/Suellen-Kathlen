@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on intern.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently studying Javascript.
 
 - 📫 How to reach me: https://www.linkedin.com/in/suellen-kathlen-teixeira-741562224/
 
